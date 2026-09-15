@@ -1,0 +1,26 @@
+a: What is backend development?
+
+Backend development is the part of an application that handles the server, database, business logic, and APIs. It processes requests from the frontend and sends back the required data or response.
+
+b:What is an API? Give one practical example.
+
+An API is a way for two applications or systems to communicate with each other. For example, a weather app can use a weather API to get current weather data from a server. 
+
+c: What is a REST API? What are GET, POST, PUT/PATCH, and DELETE used for?
+
+A REST API is an API that follows REST principles and uses HTTP methods to work with resources.
+
+GET is to retrieve data
+POST is to create new data
+PUT/PATCH is to update existing data
+DELETE is to remove data
+
+d:Authentication vs Authorization
+
+Authentication checks who the user is, while authorization checks what the user is allowed to access.
+
+Example: Logging into an account is authentication. Having permission to access an admin panel is authorization.
+
+e: What is JSON and why is it commonly used for API communication?
+
+JSON (JavaScript Object Notation) is a lightweight format used to store and exchange data. It is commonly used in APIs because it is simple, easy to read, and supported by many programming languages.
